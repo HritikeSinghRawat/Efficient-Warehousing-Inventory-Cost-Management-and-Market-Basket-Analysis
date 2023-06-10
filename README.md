@@ -1,4 +1,6 @@
-Efficient Warehousing - Inventory Cost Management and Market Basket Analysis
+# Efficient Warehousing - Inventory Cost Management and Market Basket Analysis
+![Market Basket Analysis](https://github.com/HritikeSinghRawat/Efficient-Warehousing_Inventory-Cost-Management-and-Market-Basket-Analysis/assets/84779271/6d6edb06-ebf4-4f74-bb4b-a7625b356649)
+
 Problem Statement:
 
 In recent times, the e-commerce sector has experienced significant growth and success, offering customers the convenience of a wide array of product choices that can be conveniently ordered from the comfort of their homes. However, the question arises as to how these e-commerce companies are able to provide such an extensive range of products. To meet customer demands, these companies must maintain substantial inventories in their warehouses. Within these inventories, some products are classified as fast-moving, with high sales velocity, while others are slow-moving. The storage and maintenance of each product entail costs for the company in terms of space and upkeep. Consequently, it becomes imperative for organizations to effectively plan their inventory to mitigate unnecessary expenses.
