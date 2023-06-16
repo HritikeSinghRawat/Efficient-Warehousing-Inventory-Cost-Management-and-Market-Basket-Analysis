@@ -1,6 +1,7 @@
 # Efficient Warehousing - Inventory Cost Management and Market Basket Analysis
 
-![Market Basket Analysis](https://github.com/HritikeSinghRawat/Efficient-Warehousing_Inventory-Cost-Management-and-Market-Basket-Analysis/assets/84779271/04cd1927-9a9c-4f79-84be-bff42681fafa)
+![AffinityAnalysis](https://github.com/HritikeSinghRawat/Efficient-Warehousing_Inventory-Cost-Management-and-Market-Basket-Analysis/assets/84779271/1a09580a-33a0-44af-91db-78138f86f173)
+
 
 Problem Statement:
 
